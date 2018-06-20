@@ -12,6 +12,6 @@ public class ParseByte {
 
 		twoCool = Byte.parseByte(zeroCool.substring(2));
 
-		System.out.println(twoCool);
+		System.out.println("byteZeroCool: " + twoCool);
 	}
 }
